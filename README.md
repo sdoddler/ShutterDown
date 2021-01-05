@@ -1,7 +1,7 @@
 # ShutterDown
 A small program to automatically shutdown, sleep or restart a Windows computer after the given time.
 
-![Screenshot](https://i.imgur.com/Bygw3tX.png)
+![Screenshot](https://i.imgur.com/eKnvbU0.png)
 
 How to use
 
